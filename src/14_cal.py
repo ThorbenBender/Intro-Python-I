@@ -27,5 +27,3 @@ from datetime import datetime
 month = input("Please type in the month: ");
 year  = input("Please type in the year: ");
 
-if (not month and not year):
-  print(datetime.date(month).month);
