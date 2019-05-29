@@ -22,3 +22,8 @@ and does the following:
 import sys
 import calendar
 from datetime import datetime
+
+
+month = input("Please type in the month: ");
+year  = input("Please type in the year: ");
+
